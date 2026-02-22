@@ -23,9 +23,13 @@
     { "id": "prod-3ada4570-017", "name": "Basic Item 17", "category": "electronics", "price": 441.87, "stock": 34, "rating": 2.7 }
   ],
   "aggregations": {
-    "clothing": {
-      "count": 0,
-      "inventoryValue": 0.00
-    }
+  "clothing": {
+    "count": 0,
+    "inventoryValue": 0.00
+  },
+  "electronics": {
+    "count": 7,
+    "inventoryValue": 96143.68
   }
+}
 }
