@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "email": "24f2002343@ds.study.iitm.ac.in",
+    "version": "3ada4570"
+  },
+  "products": [
+    { "id": "prod-3ada4570-001", "name": "Basic Item 1", "category": "books", "price": 468.81, "stock": 180, "rating": 3.9 },
+    { "id": "prod-3ada4570-002", "name": "Premium Item 2", "category": "sports", "price": 363.69, "stock": 143, "rating": 3.5 },
+    { "id": "prod-3ada4570-003", "name": "Premium Item 3", "category": "electronics", "price": 44.31, "stock": 117, "rating": 4.9 },
+    { "id": "prod-3ada4570-004", "name": "Elite Item 4", "category": "home", "price": 122.92, "stock": 105, "rating": 1.1 },
+    { "id": "prod-3ada4570-005", "name": "Standard Item 5", "category": "electronics", "price": 199.51, "stock": 20, "rating": 2.2 },
+    { "id": "prod-3ada4570-006", "name": "Pro Item 6", "category": "books", "price": 22.8, "stock": 95, "rating": 2.9 },
+    { "id": "prod-3ada4570-007", "name": "Standard Item 7", "category": "electronics", "price": 199.92, "stock": 17, "rating": 1.1 },
+    { "id": "prod-3ada4570-008", "name": "Standard Item 8", "category": "sports", "price": 471.05, "stock": 63, "rating": 3.8 },
+    { "id": "prod-3ada4570-009", "name": "Elite Item 9", "category": "electronics", "price": 106.09, "stock": 121, "rating": 2.3 },
+    { "id": "prod-3ada4570-010", "name": "Basic Item 10", "category": "books", "price": 158.95, "stock": 171, "rating": 3.8 },
+    { "id": "prod-3ada4570-011", "name": "Basic Item 11", "category": "books", "price": 305.75, "stock": 52, "rating": 2.3 },
+    { "id": "prod-3ada4570-012", "name": "Basic Item 12", "category": "home", "price": 356.1, "stock": 96, "rating": 4 },
+    { "id": "prod-3ada4570-013", "name": "Elite Item 13", "category": "books", "price": 223.72, "stock": 158, "rating": 1.4 },
+    { "id": "prod-3ada4570-014", "name": "Basic Item 14", "category": "electronics", "price": 368.81, "stock": 62, "rating": 1.9 },
+    { "id": "prod-3ada4570-015", "name": "Premium Item 15", "category": "electronics", "price": 301.32, "stock": 109, "rating": 4.5 },
+    { "id": "prod-3ada4570-016", "name": "Elite Item 16", "category": "books", "price": 413.46, "stock": 147, "rating": 1.6 },
+    { "id": "prod-3ada4570-017", "name": "Basic Item 17", "category": "electronics", "price": 441.87, "stock": 34, "rating": 2.7 }
+  ],
+  "aggregations": {
+    "clothing": {
+      "count": 0,
+      "inventoryValue": 0.00
+    }
+  }
+}
