@@ -22,14 +22,26 @@
     { "id": "prod-3ada4570-016", "name": "Elite Item 16", "category": "books", "price": 413.46, "stock": 147, "rating": 1.6 },
     { "id": "prod-3ada4570-017", "name": "Basic Item 17", "category": "electronics", "price": 441.87, "stock": 34, "rating": 2.7 }
   ],
-  "aggregations": {
-  "clothing": {
-    "count": 0,
-    "inventoryValue": 0.00
+"aggregations": {
+  "books": {
+    "count": 6,
+    "inventoryValue": 225857.63
+  },
+  "sports": {
+    "count": 2,
+    "inventoryValue": 81683.82
   },
   "electronics": {
     "count": 7,
     "inventoryValue": 96143.68
+  },
+  "home": {
+    "count": 2,
+    "inventoryValue": 47092.20
+  },
+  "clothing": {
+    "count": 0,
+    "inventoryValue": 0.00
   }
 }
 }
